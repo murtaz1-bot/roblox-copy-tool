@@ -1,0 +1,19 @@
+{
+  "overview": "A simple Roblox game URL copy tool — paste any Roblox game link, click copy, and get an instant confirmation popup that the link is ready to share.",
+  "features": [
+    "Paste a Roblox game URL into the input field",
+    "Click the Copy button to copy the URL to clipboard",
+    "A popup toast message confirms 'Game copied!'",
+    "Clean, Roblox-themed single-page design",
+    "Works instantly with no account needed"
+  ],
+  "category": "tools",
+  "tags": [
+    "roblox",
+    "url",
+    "copy",
+    "tool",
+    "gaming"
+  ],
+  "last_updated": "2026-04-14T07:19:12.318Z"
+}
